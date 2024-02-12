@@ -4,4 +4,5 @@ This Java Swing project, titled "Cooking Navigator," is a simple application des
 
 ## Dependencies
 -**Java SE Development Kit (JDK).**
+
 -**Java Swing Library.**
